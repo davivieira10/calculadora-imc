@@ -32,6 +32,5 @@ function limpar() {
   document.getElementById("height").value = "";
   document.getElementById("weight").value = "";
   document.getElementById("text_area").innerText = "";
-  location.reload();
   document.getElementById("height").focus();
 }
