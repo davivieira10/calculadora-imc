@@ -1,5 +1,7 @@
 ## <h1>Calculadora de IMC</h1>
-<h2>Projeto desenvolvido para praticar as ferramentas de HTML5, CSS3 e JavaScript.</h2> 
+<h2>Projeto desenvolvido para praticar as ferramentas de HTML5, CSS3 e JavaScript.</h2>
+
+<img align="center" alt="Calculara IMC" src="https://i.postimg.cc/hvXKKC4G/projeto-calculadora-imc.png">
 
 [🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/calculadora-imc/)
 
